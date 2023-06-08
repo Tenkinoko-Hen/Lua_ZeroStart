@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3274458685
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: main.unity.ab
+      Dependencies: {}
+    Info_1:
+      Name: ui/perfabs/canvas.prefab.ab
+      Dependencies: {}
+    Info_2:
+      Name: ui/res/login/bg.jpg.ab
+      Dependencies: {}
+    Info_3:
+      Name: ui/res/login/test.png.ab
+      Dependencies: {}
