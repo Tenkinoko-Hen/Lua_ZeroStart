@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1946192723
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 401168213f3b3287cb1aef6ff7770b69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7290e47db5dbe4576fed2aef73fe1b68
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BuildResources/UI/prerfabs/TestUI.prefab
+Dependencies:
+- K:/UnityProject/Learning project/Lua/Lua_ZeroStart/Assets/StreamingAssets/ui/prerfabs/res/login/bg.jpg.ab
+- K:/UnityProject/Learning project/Lua/Lua_ZeroStart/Assets/StreamingAssets/ui/prerfabs/res/login/test.png.ab

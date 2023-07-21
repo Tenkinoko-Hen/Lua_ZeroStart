@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 331099165
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scenes/main.unity.ab
+      Dependencies: {}
+    Info_1:
+      Name: ui/prerfabs/testui.prefab.ab
+      Dependencies:
+        Dependency_0: ui/prerfabs/res/login/bg.jpg.ab
+        Dependency_1: ui/prerfabs/res/login/test.png.ab
+    Info_2:
+      Name: ui/prerfabs/login/loginui.prefab.ab
+      Dependencies:
+        Dependency_0: ui/prerfabs/res/login/bg.jpg.ab
+        Dependency_1: ui/prerfabs/res/login/test.png.ab
+    Info_3:
+      Name: ui/prerfabs/res/login/bg.jpg.ab
+      Dependencies: {}
+    Info_4:
+      Name: ui/prerfabs/res/login/test.png.ab
+      Dependencies: {}

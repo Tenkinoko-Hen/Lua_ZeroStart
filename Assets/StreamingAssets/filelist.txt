@@ -1,0 +1,5 @@
+Assets/BuildResources/Scenes/Main.unity|scenes/main.unity.ab
+Assets/BuildResources/UI/prerfabs/TestUI.prefab|ui/prerfabs/testui.prefab.ab|Assets/BuildResources/UI/prerfabs/res/Login/test.png|Assets/BuildResources/UI/prerfabs/res/Login/bg.jpg
+Assets/BuildResources/UI/prerfabs/Login/LoginUI.prefab|ui/prerfabs/login/loginui.prefab.ab|Assets/BuildResources/UI/prerfabs/res/Login/test.png|Assets/BuildResources/UI/prerfabs/res/Login/bg.jpg
+Assets/BuildResources/UI/prerfabs/res/Login/bg.jpg|ui/prerfabs/res/login/bg.jpg.ab
+Assets/BuildResources/UI/prerfabs/res/Login/test.png|ui/prerfabs/res/login/test.png.ab
